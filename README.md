@@ -1,2 +1,7 @@
-# mypersonalspace
-a project under construction
+# REALGUY'S HIDEOUT
+Hlo there!
+generous of you to read this lol
+i made this project to learn more about css and html and also to introduce myself 
+you can find my hobby and about me here
+Also the projects i have made 
+well if u are reading this thx for that cause it took me 5 hrs to make this thing though hackatime sucks and only catched 3 hrs 30m of it nvm 
