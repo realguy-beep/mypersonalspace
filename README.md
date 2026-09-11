@@ -8,15 +8,11 @@ well if u are reading this thx for that cause it took me 5 hrs to make this thin
 I made this to learn front-end basics properly (no frameworks, no shortcuts) and to have a place to show off what I'm building.
 
 ## What's in here
-
-- **Home** — quick intro
-- **About** — a bit about me
-- **Profile** — skills + contact info
-- **Hobbies** — coding, cars & F1, gaming
-- **Projects** — stuff I've actually built, including:
-  - Disease Prediction App (FastAPI + ML)
-  - Language Model from Scratch
-  - 2WD Obstacle Avoider (Arduino robot)
+A quick intro about me
+my hobbies
+my projects
+and ways to connect me
+wont write much or they gonna flag me for ai lol
 
 ## Built with
 
